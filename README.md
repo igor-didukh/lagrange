@@ -1,2 +1,4 @@
 # lagrange
-Numerical methods. Lagrange interpolation
+## Numerical methods. Lagrange interpolation
+
+NetBeans project.
